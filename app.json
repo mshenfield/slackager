@@ -1,0 +1,11 @@
+{
+  "name": "Slackager",
+  "description": "Manage your Github organization through Slack.",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/7/76/Slack_Icon.png",
+  "repository": "https://github.com/mshenfield/slackager",
+  "keywords": ["node", "slack", "github", "organization"],
+  "env": {
+	(4)
+    }
+  }
+}

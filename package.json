@@ -1,0 +1,28 @@
+{
+  "name": "slackager",
+  "version": "0.1.0",
+  "description": "Manage your Github organization through Slack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mshenfield/slackager"
+  },
+  "keywords": [
+    "node",
+    "slack",
+    "github",
+    "organization"
+  ],
+  "author": "Max Shenfield",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mshenfield/slackager/issues"
+  },
+  "homepage": "https://github.com/mshenfield/slackager",
+  "dependencies": {
+    "hapi": "^8.8.0"
+  }
+}
