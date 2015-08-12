@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/mshenfield/slackager",
   "dependencies": {
-    "hapi": "^8.8.0"
+    "hapi": "^8.8.0",
+    "slackey": "^1.1.0"
   }
 }
